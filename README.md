@@ -3,11 +3,13 @@
 I am Anastasia Clifford.
 Welcome to my GitHub page! 
 
+<img align="right" width=150 src="grogu.gif" />
+	
 - 💻 I’m currently working on JavaScript, ReactJS, HTML, CSS.
 - 🔝 I’m currently learning Typescript and VueJS.
-
 - 💫 I'm a huge Star Wars fan and I have a dog Emma 🐾 who looks like an ewok.
 - 🧘‍♀️ I'm practicing yoga, love hiking, camping, Rockie Mountains and Country music 🎵. 
+
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
@@ -19,4 +21,6 @@ Welcome to my GitHub page!
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
 </div>
 
-![grogu](https://github.com/nastyaclifford/nastyaclifford/blob/main/grogu.gif)
+
+
+
