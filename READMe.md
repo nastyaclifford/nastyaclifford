@@ -22,12 +22,7 @@ Welcome to my GitHub page!
 
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/anastasia-clifford-42a761155/" title="Follow me on Linkedin">
-  <img
-    width="30"
-    alt="Follow me on Linkedin"
-    src="linkedin.png"
-  /></a>
+
 <a href="mailto:anastasiaclifford95@gmail.com" title="Email me">
   <img
     width="30"
