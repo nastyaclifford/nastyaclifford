@@ -29,4 +29,12 @@ Welcome to my GitHub page!
     alt="Email me"
     src="gmail.png"
   /></a>
+  <a href=" https://www.linkedin.com/in/anastasia-clifford-42a761155/" title="Connect with me">
+  <img
+    width="30"
+    alt="Email me"
+    src="linkedin.png"
+  /></a>
 
+
+ 
