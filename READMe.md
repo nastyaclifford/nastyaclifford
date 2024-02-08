@@ -6,7 +6,7 @@ Welcome to my GitHub page!
 <img align="right" width=150 src="grogu.gif" />
 	
 - 💻 I’m currently working on **JavaScript, ReactJS, HTML, CSS**.
-- 🔝 I’m learning ReactJS.
+- 🔝 I’m learning Typescript and NextJS.
 - 💫 I'm a huge Star Wars fan and I have a dog Emma 🐾 who looks like an Ewok.
 - 🧘‍♀️ I'm practicing yoga, love hiking, camping, Rockie Mountains and Country music 🎵. 
 
