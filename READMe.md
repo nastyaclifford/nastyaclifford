@@ -10,6 +10,7 @@ Welcome to my GitHub page!
 - 💫 I'm a huge Star Wars fan and I have a dog Emma 🐾 who looks like an Ewok.
 - 🧘‍♀️ I'm practicing yoga, love hiking, camping, Rockie Mountains and Country music 🎵. 
 
+Check out my <a href="https://nastyaclifford.github.io/AnastasiaClifford/" style="color:white">**WEBSITE**</a>.
 
 <div align="center">
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
